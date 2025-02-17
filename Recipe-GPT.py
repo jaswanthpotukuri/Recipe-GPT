@@ -4,8 +4,7 @@ import tkinter as tk
 from tkinter import scrolledtext, Frame
 
 # API KEY
-API_KEY = 'AIzaSyDWXiY-rGSWTJwQmoB8C3UF1jbzxj3Z24o'
-
+API_KEY = 'Gemini-API KEY(GET YOUR OWN IN GEMINI)'
 # Configure the API
 ai.configure(api_key=API_KEY)
 
